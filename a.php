@@ -1,5 +1,3 @@
-<!doctype html>
-<html lang="zh-cn">
 <head>
 <title>sss</title>
 <meta charset="utf-8">
